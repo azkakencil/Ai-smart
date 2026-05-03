@@ -79,7 +79,7 @@ export default function Auth({onLogin}: {onLogin: (username: string) => void}) {
             className="text-5xl font-black text-white leading-tight font-sans tracking-tight drop-shadow-2xl text-center lg:text-left"
           >
             KECERDASAN <br/>
-            <span className="text-gold">Smary AI</span>
+            <span className="text-gold">Smart AI</span>
           </h1>
           <p className="mt-4 text-white/60 max-w-sm font-medium leading-relaxed text-center lg:text-left mx-auto lg:mx-0">
             Nikmati perpaduan kebijaksanaan mendalam dan kecerdasan buatan masa depan.
