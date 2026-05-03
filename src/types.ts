@@ -31,7 +31,7 @@ export interface User {
 
 export const LOADING_IMAGES = Array.from({ length: 231 }, (_, i) => {
   const frameNumber = String(i + 1).padStart(3, '0');
-  return `https://deploy.nexapanel.my.id/x/ezgif-frame-${frameNumber}.png`;
+  return `https://i.ibb.co/8DtSvPCD/smart-gadget-png.jpg`;
 });
 
 export const MODEL_CONFIGS = {
