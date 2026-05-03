@@ -174,7 +174,7 @@ export default function Auth({onLogin}: {onLogin: (username: string) => void}) {
                   type="submit"
                   className="w-full bg-gold hover:bg-gold/90 text-sacred-blue font-black py-4 flex items-center justify-center gap-2 transition-all transform active:scale-95 shadow-2xl shadow-gold/20 tracking-[0.2em] text-xs uppercase"
                 >
-                  {isLogin ? 'MASUK KE SMARY AI' : 'INISIASI AKUN'}
+                  {isLogin ? 'MASUK KE SMART AI' : 'INISIASI AKUN'}
                   <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                 </button>
               </div>
